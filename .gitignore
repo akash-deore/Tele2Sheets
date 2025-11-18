@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.json
+
+# Environment / secrets
+.env
+secrets/
